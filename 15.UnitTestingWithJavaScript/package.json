@@ -1,0 +1,16 @@
+{
+  "name": "15",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.1.0"
+  }
+}
